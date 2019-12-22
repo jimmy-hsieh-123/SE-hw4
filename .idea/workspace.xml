@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2255806-43fe-4151-8828-289c642bf57d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myAutoScrollFromSource" value="true" />
+    <option name="myElementSize" value="239" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VHRcG0UOo14t7DzZYTGcaCLq8Q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.LetterGradeBoundryTest">
+    <configuration name="LetterGradeBoundryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LetterGradeBoundryTest" />
+      <module name="hw4_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LetterGradeBoundryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw4_1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LetterGradeBoundryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LetterGradeBoundryTest.Should_Return_X_0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw4_1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LetterGradeBoundryTest" />
+      <option name="METHOD_NAME" value="Should_Return_X_0" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LetterGradeBoundryTest.Should_Return_X_100" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw4_1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LetterGradeBoundryTest" />
+      <option name="METHOD_NAME" value="Should_Return_X_100" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LetterGradePartitioningTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw4_1" />
+      <extension name="coverage" sample_coverage="false">
+        <pattern>
+          <option name="PATTERN" value="LetterGradeBoundryTest" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="LetterGradePartitioningTest" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LetterGradePartitioningTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.LetterGradeBoundryTest" />
+      <item itemvalue="JUnit.LetterGradeBoundryTest" />
+      <item itemvalue="JUnit.LetterGradePartitioningTest" />
+      <item itemvalue="JUnit.LetterGradeBoundryTest.Should_Return_X_0" />
+      <item itemvalue="JUnit.LetterGradeBoundryTest.Should_Return_X_100" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LetterGradeBoundryTest" />
+        <item itemvalue="JUnit.LetterGradePartitioningTest" />
+        <item itemvalue="JUnit.LetterGradeBoundryTest.Should_Return_X_100" />
+        <item itemvalue="JUnit.LetterGradeBoundryTest.Should_Return_X_0" />
+        <item itemvalue="Application.LetterGradeBoundryTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2255806-43fe-4151-8828-289c642bf57d" name="Default Changelist" comment="" />
+      <created>1576908111891</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576908111891</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Project_Structure" timestamp="1576908117893">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1576908117893" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576915672334">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1576915672334" />
+    <state x="371" y="124" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1576915576979">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="124" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1576915576979" />
+    <state width="1281" height="3" key="GridCell.Tab.0.bottom" timestamp="1577007698072">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="3" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1577007698072" />
+    <state width="1281" height="3" key="GridCell.Tab.0.center" timestamp="1577007698071">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="3" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1577007698071" />
+    <state width="1281" height="3" key="GridCell.Tab.0.left" timestamp="1577007698071">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="3" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1577007698071" />
+    <state width="1281" height="3" key="GridCell.Tab.0.right" timestamp="1577007698072">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="3" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1577007698072" />
+    <state x="326" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1577007641269">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="326" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1577007641269" />
+    <state x="355" y="234" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1576908166544">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="355" y="234" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.680@0.0.1280.680" timestamp="1576908166544" />
+    <state x="412" y="43" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1576908516367">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="412" y="43" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.680@0.0.1280.680" timestamp="1576908516367" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1576936467637">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1576936467637" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/hw4_1$LetterGradePartitioningTest.ic" NAME="LetterGradePartitioningTest Coverage Results" MODIFIED="1577007679752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>LetterGradeBoundryTest</FILTER>
+      <FILTER>LetterGradePartitioningTest</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw4_1$LetterGradeBoundryTest.ic" NAME="LetterGradeBoundryTest Coverage Results" MODIFIED="1577007698040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
